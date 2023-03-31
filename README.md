@@ -1,2 +1,2 @@
 # Image-Processing
-Implements multiple Photoshop blending modes such as multiplying, subtracting, overlaying, combine and more. This is implemented in C++ and reads .tga images. I did this for my COP3503 class Spring 2023.
+Implements multiple Photoshop blending modes such as multiplying, subtracting, overlaying, combine and more. furthermore, I implement a Command-Line Inteface to my program, that will allow the end user to provide different arguments to my program. This allows the end user to change the manipulation methods used, the input files used, or the name of the ouput file, all without needing to re-build.  This is implemented in C++ and reads .tga images. I did this for my COP3503 class Spring 2023.
